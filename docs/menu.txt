@@ -1,0 +1,9 @@
+===== PALIMPSESTE =====
+1. Gestion des utilisateurs
+2. Gestion des fragments
+3. Gestion des collections
+4. Gestion des groupes
+5. Gestion des avis
+6. Gestion des donnees
+0. Quitter
+Votre choix :

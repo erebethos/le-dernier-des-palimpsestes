@@ -4,6 +4,7 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
+import java.nio.file.Path;
 
 /**
  * Gère la sauvegarde et le chargement des données.
@@ -12,7 +13,7 @@ import java.io.ObjectOutputStream;
 
 public class Fichier {
     // Le fichier est placé dans le dossier utilisateur pour éviter les problèmes de droits d'écriture.
-    private static final String NOM_FICHIER = System.getProperty("user.home") + "\\palimpseste.dat";
+    private static final String NOM_FICHIER = Path.of(System.getProperty("user.home"), "palimpseste.dat").toString();
     
     /**
      * Sauvegarde l'état complet de l'application dans un fichier objet.

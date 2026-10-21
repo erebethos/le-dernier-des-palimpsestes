@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="355" viewBox="0 0 700 355" role="img" aria-labelledby="title desc"><title id="title">Le Dernier des Palimpsestes — menu principal</title><desc id="desc">Sortie du programme Java exécuté depuis les sources. Menu de gestion des utilisateurs, fragments, collections, groupes, avis et données.</desc><rect width="700" height="355" rx="8" fill="#173f35"/><text x="26" y="34" font-family="monospace" font-size="12" fill="#c8d7c4">PALIMPSESTE / CONSOLE JAVA</text>
+<text x="26" y="72" font-family="monospace" font-size="16" fill="#fffdf8">===== PALIMPSESTE =====</text>
+<text x="26" y="98" font-family="monospace" font-size="16" fill="#fffdf8">1. Gestion des utilisateurs</text>
+<text x="26" y="124" font-family="monospace" font-size="16" fill="#fffdf8">2. Gestion des fragments</text>
+<text x="26" y="150" font-family="monospace" font-size="16" fill="#fffdf8">3. Gestion des collections</text>
+<text x="26" y="176" font-family="monospace" font-size="16" fill="#fffdf8">4. Gestion des groupes</text>
+<text x="26" y="202" font-family="monospace" font-size="16" fill="#fffdf8">5. Gestion des avis</text>
+<text x="26" y="228" font-family="monospace" font-size="16" fill="#fffdf8">6. Gestion des donnees</text>
+<text x="26" y="254" font-family="monospace" font-size="16" fill="#fffdf8">0. Quitter</text>
+<text x="26" y="280" font-family="monospace" font-size="16" fill="#fffdf8">Votre choix :</text>
+</svg>
